@@ -14,5 +14,11 @@
     "name": "Jonathan Besuchet",
     "email": "jobesu14@gmail.com",
     "url": "https://www.unity3d.com"
+  },
+  "samples": [
+  {
+    "displayName": "Kalibration",
+    "description": "IMU-camera calibration using Kalibr.",
+    "path": "Samples~/Kalibration"
   }
 }
